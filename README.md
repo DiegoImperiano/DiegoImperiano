@@ -14,13 +14,11 @@
 
 ##
 <br>
-
-  <br>
   
 <div align="center">
   
   <a href="https://github.com/DiegoImperiano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoImperiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoImperiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> </a>
      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoImperiano&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -32,25 +30,26 @@
   
 <div  align="center">
   
-  <div >
-
-  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=HTML5" target="_blank"/>
+    <img src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=CSS3&logoColor=6F9BF5" target="_blank"/>
+    <img src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=JavaScript" target="_blank"/>
+    <img src="https://img.shields.io/badge/VUE-282a36?style=for-the-badge&logo=Vue.js" target="_blank"/>
+    <img src="https://img.shields.io/badge/PHP-282a36?style=for-the-badge&logo=PHP" target="_blank"/>
+    <img src="https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=Python" target="_blank"/>
 
   </div>
 
 <br>
-
-  <div> 
-
-
+    
+<div> 
+    
   ![Snake animation](https://github.com/DiegoImperiano/DiegoImperiano/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
 
-  </div>
-
-  
+<br>
+    
+<div align="left">
+    <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=DiegoImperiano&color=58fe88" alt="alexsgross" />
+</div>
