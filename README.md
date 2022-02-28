@@ -50,6 +50,6 @@
 
 <br>
     
-<div align="left">
+<div align="right">
     <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=DiegoImperiano&color=58fe88" alt="alexsgross" />
 </div>
