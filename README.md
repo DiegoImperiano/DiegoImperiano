@@ -3,7 +3,7 @@
 🎓 Estou cursando Tecnologia em Sistemas para internet no IFRN-CN <br>
 🔎 Sempre aprendendo algo novo que faça sentido para minha vida <br>
 🎮 Gosto de games e coisas que me desafiem <br>
-🌱 Estou aprendendo React, Node.js  e sobre como criar e consumir APIs <br>
+🌱 Estou aprendendo React, Node.js  e também sobre como criar e consumir APIs <br>
 💬 Faça contato
     
   <a href="https://instagram.com/diego_imperiano/" target="_blank"><img src="https://img.shields.io/badge/Instagram-282a36?style=for-the-badge&logo=instagram&logoColor=58fe88" target="_blank"></a> 
