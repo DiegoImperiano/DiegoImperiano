@@ -32,10 +32,10 @@
     <img src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=HTML5" target="_blank"/>
     <img src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=CSS3&logoColor=6F9BF5" target="_blank"/>
     <img src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=JavaScript" target="_blank"/>
+    <img src="https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=TypeScript" target="_blank"/>
     <img src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=React" target="_blank"/>
+    <img src="https://img.shields.io/badge/NodeJS-282a36?style=for-the-badge&logo=Node.js" target="_blank"/>    
     <img src="https://img.shields.io/badge/PHP-282a36?style=for-the-badge&logo=PHP" target="_blank"/>
-    <img src="https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=Python" target="_blank"/>
-
   </div>
 
 <br>
