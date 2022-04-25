@@ -2,7 +2,7 @@
 
 Parece que você encontrou meu perfil no Github. <br>
 
-Prazer! Meu nome é **Diego Imperiano** e sou apaixonado por tecnologia. Comecei a estudar programação em 2019 mas foi agora, em 2022, que decidi focar completamente em me tornar um desensenvolvedor **Full Stack** JavaScript.
+Prazer! Meu nome é **Diego Imperiano** e sou apaixonado por tecnologia. Comecei a estudar programação em 2019 mas foi agora, em 2022, que decidi me focar completamente em me tornar um desensenvolvedor **Full Stack** JavaScript.
 
 Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja desenvolvi. Sinta-se livre para fazer *pull requests* e abrir *issues* quando quiser, será uma honra poder conversar com você!
 
@@ -40,8 +40,6 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
   <img src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=React" target="_blank"/>
   <img src="https://img.shields.io/badge/NodeJS-282a36?style=for-the-badge&logo=Node.js" target="_blank"/>    
   <img src="https://img.shields.io/badge/PHP-282a36?style=for-the-badge&logo=PHP" target="_blank"/>
-  <img src="https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=Python" target="_blank"/>    
-  <img src="https://img.shields.io/badge/vue.js-282a36?style=for-the-badge&logo=vue.js" target="_blank"/>   
 </div>
  
 ##
