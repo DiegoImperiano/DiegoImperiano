@@ -2,7 +2,7 @@
 
 Parece que você encontrou meu perfil no Github. <br>
 
-Prazer! Meu nome é **Diego Imperiano** e sou apaixonado por tecnologia. Comecei a estudar programação em 2019 mas foi agora, em 2022, que decidi me focar completamente em me tornar um desensenvolvedor **Full Stack** JavaScript.
+Prazer! Meu nome é **Diego Imperiano** e sou apaixonado por tecnologia. Comecei a estudar programação em 2019 mas foi agora, em 2022, que decidi me focar completamente em me tornar um desenvolvedor **Full Stack** JavaScript.
 
 Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja desenvolvi. Sinta-se livre para fazer *pull requests* e abrir *issues* quando quiser, será uma honra poder conversar com você!
 
