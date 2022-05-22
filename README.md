@@ -8,10 +8,11 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 
 <br>
 
-- 🎓 Estou cursando Tecnologia em Sistemas para internet no IFRN-CN <br>
+- 🎓 Cursando Tecnologia em Sistemas para internet no IFRN-CN <br>
+- 🔭 Desenvolvedor front end na Agência mtd. <br>
 - 🔎 Sempre aprendendo algo novo que faça sentido para minha vida <br>
-- 🌱 Focado na stack TypeScript, ReactJS e NodeJS <br>
-- 🔭 Em busca de uma oportunidade 
+- 🌱 Focado na stack ReactJS, TypeScript e NodeJS <br>
+
  
 <br>
 
