@@ -9,7 +9,7 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 <br>
 
 - 🎓 Cursando Tecnologia em Sistemas para internet no IFRN-CN <br>
-- 🔭 Desenvolvedor front end na Agência mtd. <br>
+- 🔭 Desenvolvedor front end na Agência Mtd. <br>
 - 🔎 Sempre aprendendo algo novo que faça sentido para minha vida <br>
 - 🌱 Focado na stack ReactJS, TypeScript e NodeJS <br>
 
