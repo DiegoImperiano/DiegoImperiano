@@ -47,7 +47,7 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 
 <div align="center">
        
-
+![Snake animation](https://github.com/DiegoImperiano/DiegoImperiano/blob/output/github-contribution-grid-snake.svg)
       
 </div>
 
