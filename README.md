@@ -25,7 +25,7 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 ##
 
 <div align="center">
-    <h3> 💻 Um reseumo da minha jornada como DEV </h3>
+    <h3 color="#FFF"> 💻 Um reseumo da minha jornada como DEV </h3>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DiegoImperiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
      
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoImperiano&layout=compact&langs_count=7&theme=dark"/>
